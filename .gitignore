@@ -1,0 +1,16 @@
+# Foto dei volti (dati personali) — si tiene solo la cartella vuota
+volti-fr/*
+!volti-fr/.gitkeep
+
+# Ambiente virtuale e cache Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# File di sistema macOS
+.DS_Store
+
+# Impostazioni degli editor
+.vscode/
+.idea/
